@@ -1,0 +1,12 @@
+[
+    {
+        "image": "image1",
+        "extension": "jpg",
+        "label": "label1"
+    },
+    {
+        "image": "image2",
+        "extension": "png",
+        "label": "label2"
+    }
+]
