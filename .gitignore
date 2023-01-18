@@ -1,3 +1,5 @@
+.DS_Store
+
 # Ignore common python temporary files
 *.pyc
 __pycache__/
