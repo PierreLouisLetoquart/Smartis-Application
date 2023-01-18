@@ -1,12 +1,232 @@
 [
     {
-        "image": "image1",
-        "extension": "jpg",
-        "label": "label1"
+        "image": "g4",
+        "extension": "jpeg",
+        "label": "graffiti"
     },
     {
-        "image": "image2",
-        "extension": "png",
-        "label": "label2"
+        "image": "g5",
+        "extension": "jpeg",
+        "label": "graffiti"
+    },
+    {
+        "image": "g6",
+        "extension": "jpeg",
+        "label": "graffiti"
+    },
+    {
+        "image": "g7",
+        "extension": "jpeg",
+        "label": "graffiti"
+    },
+    {
+        "image": "g8",
+        "extension": "jpeg",
+        "label": "graffiti"
+    },
+    {
+        "image": "g9",
+        "extension": "jpeg",
+        "label": "graffiti"
+    },
+    {
+        "image": "g10",
+        "extension": "jpeg",
+        "label": "graffiti"
+    },
+    {
+        "image": "g11",
+        "extension": "jpeg",
+        "label": "graffiti"
+    },
+    {
+        "image": "g12",
+        "extension": "jpeg",
+        "label": "graffiti"
+    },
+    {
+        "image": "g13",
+        "extension": "jpeg",
+        "label": "graffiti"
+    },
+    {
+        "image": "g14",
+        "extension": "jpeg",
+        "label": "graffiti"
+    },
+    {
+        "image": "g15",
+        "extension": "jpeg",
+        "label": "graffiti"
+    },
+    {
+        "image": "g16",
+        "extension": "jpeg",
+        "label": "graffiti"
+    },
+    {
+        "image": "g17",
+        "extension": "jpeg",
+        "label": "graffiti"
+    },
+    {
+        "image": "g18",
+        "extension": "jpeg",
+        "label": "graffiti"
+    },
+    {
+        "image": "s4",
+        "extension": "jpeg",
+        "label": "sol"
+    },
+    {
+        "image": "s5",
+        "extension": "jpeg",
+        "label": "sol"
+    },
+    {
+        "image": "s6",
+        "extension": "jpeg",
+        "label": "sol"
+    },
+    {
+        "image": "s7",
+        "extension": "jpeg",
+        "label": "sol"
+    },
+    {
+        "image": "s8",
+        "extension": "jpeg",
+        "label": "sol"
+    },
+    {
+        "image": "s9",
+        "extension": "jpeg",
+        "label": "sol"
+    },
+    {
+        "image": "s10",
+        "extension": "jpeg",
+        "label": "sol"
+    },
+    {
+        "image": "s11",
+        "extension": "jpeg",
+        "label": "sol"
+    },
+    {
+        "image": "s12",
+        "extension": "jpeg",
+        "label": "sol"
+    },
+    {
+        "image": "s13",
+        "extension": "jpeg",
+        "label": "sol"
+    },
+    {
+        "image": "s14",
+        "extension": "jpeg",
+        "label": "sol"
+    },
+    {
+        "image": "s15",
+        "extension": "jpeg",
+        "label": "sol"
+    },
+    {
+        "image": "s16",
+        "extension": "jpeg",
+        "label": "sol"
+    },
+    {
+        "image": "s17",
+        "extension": "jpeg",
+        "label": "sol"
+    },
+    {
+        "image": "s18",
+        "extension": "jpeg",
+        "label": "sol"
+    },
+    {
+        "image": "s19",
+        "extension": "jpeg",
+        "label": "sol"
+    },
+    {
+        "image": "s20",
+        "extension": "jpeg",
+        "label": "sol"
+    },
+    {
+        "image": "m4",
+        "extension": "jpeg",
+        "label": "malpro"
+    },
+    {
+        "image": "m5",
+        "extension": "jpeg",
+        "label": "malpro"
+    },
+    {
+        "image": "m8",
+        "extension": "jpeg",
+        "label": "malpro"
+    },
+    {
+        "image": "m10",
+        "extension": "jpeg",
+        "label": "malpro"
+    },
+    {
+        "image": "m11",
+        "extension": "jpeg",
+        "label": "malpro"
+    },
+    {
+        "image": "m12",
+        "extension": "jpeg",
+        "label": "malpro"
+    },
+    {
+        "image": "m13",
+        "extension": "jpeg",
+        "label": "malpro"
+    },
+    {
+        "image": "m14",
+        "extension": "jpeg",
+        "label": "malpro"
+    },
+    {
+        "image": "m15",
+        "extension": "jpeg",
+        "label": "malpro"
+    },
+    {
+        "image": "m16",
+        "extension": "jpeg",
+        "label": "malpro"
+    },
+    {
+        "image": "m17",
+        "extension": "jpeg",
+        "label": "malpro"
+    },
+    {
+        "image": "m18",
+        "extension": "jpeg",
+        "label": "malpro"
+    },
+    {
+        "image": "m19",
+        "extension": "jpeg",
+        "label": "malpro"
+    },
+    {
+        "image": "m20",
+        "extension": "jpeg",
+        "label": "malpro"
     }
 ]

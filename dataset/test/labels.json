@@ -1,12 +1,47 @@
 [
     {
-        "image": "image1",
-        "extension": "jpg",
-        "label": "label1"
+        "image": "g1",
+        "extension": "jpeg",
+        "label": "graffiti"
     },
     {
-        "image": "image2",
-        "extension": "png",
-        "label": "label2"
+        "image": "g2",
+        "extension": "jpeg",
+        "label": "graffiti"
+    },
+    {
+        "image": "g3",
+        "extension": "jpeg",
+        "label": "graffiti"
+    },
+    {
+        "image": "s1",
+        "extension": "jpeg",
+        "label": "sol"
+    },
+    {
+        "image": "s2",
+        "extension": "jpeg",
+        "label": "sol"
+    },
+    {
+        "image": "s3",
+        "extension": "jpeg",
+        "label": "sol"
+    },
+    {
+        "image": "m1",
+        "extension": "jpeg",
+        "label": "malpro"
+    },
+    {
+        "image": "m2",
+        "extension": "jpeg",
+        "label": "malpro"
+    },
+    {
+        "image": "m3",
+        "extension": "jpeg",
+        "label": "malpro"
     }
 ]
