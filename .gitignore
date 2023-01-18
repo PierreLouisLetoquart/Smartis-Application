@@ -1,6 +1,3 @@
-# Ignore all other files and directories in the dataset directory
-dataset/**/*
-
 # Ignore common python temporary files
 *.pyc
 __pycache__/
