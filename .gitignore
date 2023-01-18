@@ -1,5 +1,6 @@
-# Ignore all files and directories in the dataset directory
-dataset/*
+dataset/evaluate/*
+dataset/test/*
+dataset/training/*
 
 # But don't ignore the labels.example.json and images in the subdirectories of dataset
 !dataset/evaluate/labels.example.json
