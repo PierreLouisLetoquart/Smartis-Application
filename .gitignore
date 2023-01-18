@@ -1,0 +1,21 @@
+# Ignore all files and directories in the dataset directory
+dataset/*
+
+# But don't ignore the labels.example.json and images in the subdirectories of dataset
+!dataset/evaluate/labels.example.json
+!dataset/evaluate/images/photo.png
+!dataset/test/labels.example.json
+!dataset/test/images/photo.png
+!dataset/training/labels.example.json
+!dataset/training/images/photo.png
+
+# Ignore all other files and directories in the dataset directory
+dataset/**/*
+
+# Ignore common python temporary files
+*.pyc
+__pycache__/
+*.egg-info/
+
+# Ignore environment files
+.env
