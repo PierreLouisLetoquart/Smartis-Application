@@ -1,5 +1,5 @@
 # Ignore all other files and directories in the dataset directory
-# dataset/**/*
+dataset/**/*
 
 # Ignore common python temporary files
 *.pyc
